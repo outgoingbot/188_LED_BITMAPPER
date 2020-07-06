@@ -1,0 +1,16 @@
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\bin\Debug\188_LED_BITMAPPER.exe.manifest
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\bin\Debug\188_LED_BITMAPPER.application
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\bin\Debug\188_LED_BITMAPPER.exe
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\bin\Debug\188_LED_BITMAPPER.pdb
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\bin\Debug\LED Sign M & C v.1.xml
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.vbprojAssemblyReference.cache
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.vbproj.GenerateResource.cache
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.vbproj.CoreCompileInputs.cache
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.TrustInfo.xml
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.exe.manifest
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.application
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.exe
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\LED Sign M & C v.1.xml
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\188_LED_BITMAPPER.pdb
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\bitmapper.Form1.resources
+C:\Users\Tower\Desktop\188_LED_BITMAPPER\188_LED_BITMAPPER\obj\Debug\bitmapper.Resources.resources

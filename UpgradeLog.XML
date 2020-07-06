@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LED_Sign_MC_1.0">
+</Property><Property Name="Solution File" Value="C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\LED_Sign_MC_1.0.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\LED_Sign_MC_1.0.suo">
+</Property><Property Name="Date" Value="Monday, June 15, 2015">
+</Property><Property Name="Time" Value="9:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LED_Sign_MC_1.0.sln" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\LED_Sign_MC_1.0.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LED_Sign_MC_1.0.suo" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\LED_Sign_MC_1.0.suo">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="LED_Sign_MC_1.0.vbproj" Description="Project file successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\LED_Sign_MC_1.0.vbproj">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="LED_Sign_MC_1.0.vbproj.user" Description="Project user file successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\LED_Sign_MC_1.0.vbproj.user">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="Form1.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="Form1.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="MyConverters.vb" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\MyConverters.vb">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="LED_Sign_MC_1.0_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\LED_Sign_MC_1.0_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="Image1.ico" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\Image1.ico">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="Form1.resx" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="My Project\app.manifest" Description="File successfully backed up as C:\Users\Owner\Documents\LED Sign\Windows Release\LED_Sign_MC_1.0\LED_Sign_MC_10\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="LED_Sign_MC_1.0" Source="LED_Sign_MC_1.0.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="LED_Sign_MC_1.0" Source="LED_Sign_MC_1.0.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="LED_Sign_MC_1.0.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LED_Sign_MC_1.0.sln" Description="Converted">
+</Event></UpgradeLog>
